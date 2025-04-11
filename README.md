@@ -26,7 +26,7 @@ I did this to learn more Prolog.
 
 ## d20
 
-| Sides | Need to throw this or more | One die success % | Two die success % |
+| Sides | Need to throw<br>this or more | One die success % | Two die success % |
 | --- | --- | --- | --- |
 | 20 | 2 | 95.00% | 99.75% |
 | 20 | 3 | 90.00% | 99.00% |
